@@ -18,6 +18,8 @@ If you have an issue, please [open an issue](https://github.com/is-a-stupid-cat/
 
 If you have a technical issue, please join our [Discord server](https://discord.gg/aVzSvXCy5v)!
 
+Please follow our ToS, which can be found [here](https://is-a.stupid.cat/terms)
+
 ## Register
 1. Fork [the repository](https://github.com/Is-A-Stupid-Cat/register/fork).
 2. Make a json file in the `domains` directory, for example `example.json`.
